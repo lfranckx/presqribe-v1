@@ -27,10 +27,31 @@ export const Navbar = () => {
             <nav id='sub-nav'> 
                 <ul>
                     <li>
-                        <NavLink to='/about' className='h3'>
+                        <NavLink to='/about' 
+                            className='h3'
+                            activeClassName='selected'    
+                        >
                             About Us
                         </NavLink>
                     </li>
+                    <li>
+                        <NavLink to='/about' 
+                            className='h3'
+                            activeClassName='selected'
+                        >
+                            Resources
+                        </NavLink>
+                    </li>
+                    <li>
+                        <NavLink to='/search' 
+                            className='h3'
+                            activeClassName='selected'
+                            className='h3'
+                        >
+                            Search
+                        </NavLink>
+                    </li>
+                    
                 </ul>
             </nav>
         </>

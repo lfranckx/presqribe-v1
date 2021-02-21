@@ -1,3 +1,5 @@
+@import './vars';
+
 h1, h2, h3, h4, h5 {
     margin: 0;
     padding: 0;
@@ -11,4 +13,36 @@ ul, li {
 
 a {
     text-decoration: none;
+}
+
+.h1 {
+    font-size: 2rem;
+}
+
+.h2 {
+    font-size: 1.6rem;
+}
+
+.h3 {
+    font-size: 1.4rem;
+}
+
+.h4 {
+    font-size: 1.2rem;
+}
+
+.btn {
+    padding: 5px 10px;
+    font-size: 1.2rem;
+    color: $color2;
+    border: solid 1px $color2;
+    border-radius: 4px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: $color2;
+        color: $white;
+        transition: all 0.3s ease-out;
+        transition: 250ms;
+    }
 }

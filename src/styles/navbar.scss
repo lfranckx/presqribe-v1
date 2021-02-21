@@ -6,7 +6,7 @@ nav {
     align-items: center;
     padding: 1rem;
     background-color: $white;
-    border-bottom: solid 2px $color1;
+    // border-bottom: solid 2px $color1;
 
     h1 {
         color: $color2;
@@ -53,6 +53,25 @@ nav {
                     color: $white;
                     transition: all 0.3s ease-out;
                     transition: 250ms;
+                }
+            }
+        }
+    }
+}
+
+#sub-nav {
+    background: $color2;
+    justify-content: center;
+
+    ul {
+        margin: auto;
+        li {
+            padding: 0 5px;
+
+            a {
+                color: $white;
+                &:hover {
+                    text-decoration: underline;
                 }
             }
         }
