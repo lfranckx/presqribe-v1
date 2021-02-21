@@ -1,0 +1,2 @@
+(this.webpackJsonppresqribe=this.webpackJsonppresqribe||[]).push([[0],{16:function(e,n,r){},17:function(e,n,r){},24:function(e,n,r){"use strict";r.r(n);r(0);var t=r(9),s=r.n(t),c=(r(16),r(17),r(2));var i=function(){return Object(c.jsx)(c.Fragment,{})},a=r(11);s.a.render(Object(c.jsx)(a.a,{basename:"/presqribe-v1",children:Object(c.jsx)(i,{})}),document.getElementById("root"))}},[[24,1,2]]]);
+//# sourceMappingURL=main.c67f00ab.chunk.js.map

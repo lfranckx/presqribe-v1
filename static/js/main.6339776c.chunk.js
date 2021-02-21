@@ -1,2 +1,0 @@
-(this.webpackJsonppresqribe=this.webpackJsonppresqribe||[]).push([[0],{16:function(e,n,t){},17:function(e,n,t){},24:function(e,n,t){"use strict";t.r(n);t(0);var r=t(9),c=t.n(r),s=(t(16),t(17),t(2));var i=function(){return Object(s.jsx)(s.Fragment,{})},o=t(11);c.a.render(Object(s.jsx)(o.a,{children:Object(s.jsx)(i,{})}),document.getElementById("root"))}},[[24,1,2]]]);
-//# sourceMappingURL=main.6339776c.chunk.js.map
