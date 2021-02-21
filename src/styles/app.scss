@@ -1,5 +1,10 @@
 @import './vars';
 
+* {
+    color: $white;
+  }
+  
+
 h1, h2, h3, h4, h5 {
     margin: 0;
     padding: 0;
@@ -16,11 +21,11 @@ a {
 }
 
 .h1 {
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 .h2 {
-    font-size: 1.6rem;
+    font-size: 2rem;
 }
 
 .h3 {
@@ -44,5 +49,18 @@ a {
         color: $white;
         transition: all 0.3s ease-out;
         transition: 250ms;
+    }
+}
+
+.btn2 {
+    padding: 1.2rem 3.2rem;
+    border-radius: 50px;
+    background-color: $color1;
+    color: $white;
+    font-size: 1.2rem;
+
+    &:hover {
+        background-color: $color2;
+        cursor: pointer;
     }
 }
