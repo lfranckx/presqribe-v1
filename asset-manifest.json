@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/presqribe-v1/static/css/main.1707908d.chunk.css",
+    "main.js": "/presqribe-v1/static/js/main.81a5f1ef.chunk.js",
+    "main.js.map": "/presqribe-v1/static/js/main.81a5f1ef.chunk.js.map",
+    "runtime-main.js": "/presqribe-v1/static/js/runtime-main.ea089d9b.js",
+    "runtime-main.js.map": "/presqribe-v1/static/js/runtime-main.ea089d9b.js.map",
+    "static/js/2.7f5a610f.chunk.js": "/presqribe-v1/static/js/2.7f5a610f.chunk.js",
+    "static/js/2.7f5a610f.chunk.js.map": "/presqribe-v1/static/js/2.7f5a610f.chunk.js.map",
+    "index.html": "/presqribe-v1/index.html",
+    "static/css/main.1707908d.chunk.css.map": "/presqribe-v1/static/css/main.1707908d.chunk.css.map",
+    "static/js/2.7f5a610f.chunk.js.LICENSE.txt": "/presqribe-v1/static/js/2.7f5a610f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea089d9b.js",
+    "static/js/2.7f5a610f.chunk.js",
+    "static/css/main.1707908d.chunk.css",
+    "static/js/main.81a5f1ef.chunk.js"
+  ]
+}
