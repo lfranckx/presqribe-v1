@@ -2,43 +2,14 @@
 
 footer {
     background: $black;
-    padding: 1rem;
-
-    .footer-container {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-
+    padding: 10px;
+    text-align: center;
+    
         #copyright {
             p {
                 margin: 10px;
                 font-size: 1rem;
             }
         }
-        
-        #contact-links {
-            a {
-                margin: 0 1rem;
 
-                &:first-child i {
-                    font-size: 1.5rem;
-                }
-
-                i {
-                    font-size: 1.8rem;
-
-                    &:hover {
-                        color: $color1;
-                    }
-                }
-
-                .fa-instagram:hover {
-                    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
-                    background-clip: text;
-                    -webkit-background-clip: text;
-                    -webkit-text-fill-color: transparent;
-                }
-            }
-        }
-    }
 }

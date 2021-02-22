@@ -20,6 +20,10 @@ a {
     text-decoration: none;
 }
 
+.hidden {
+    display: none;
+}
+
 .h1 {
     font-size: 3rem;
 }
@@ -53,6 +57,7 @@ a {
 }
 
 .btn2 {
+    border: none;
     padding: 1.2rem 3.2rem;
     border-radius: 50px;
     background-color: $color1;
